@@ -1,0 +1,647 @@
+TVentureX
+v6
+r1
+cCheck dependencies
+cCompileC Build/Intermediates/VentureX.build/Release/VentureX.build/Objects-normal/x86_64/Parser.o /Volumes/Universe/Research/Machine\ Learning/pp/VentureX/Parser.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/VentureX.build/Release/VentureX.build/Objects-normal/x86_64/main.o /Volumes/Universe/Research/Machine\ Learning/pp/VentureX/VentureX/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c00000000526C7AE3000000000000044C
+t1382841059
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000526C7AE300000000000001DB
+t1382841059
+s475
+
+N/Volumes/Universe/Research/Machine Learning/pp/VentureX/Build/Intermediates/VentureX.build/Release/VentureX.build/Objects-normal/x86_64/Parser.o
+t2
+s0
+
+N/Volumes/Universe/Research/Machine Learning/pp/VentureX/Build/Intermediates/VentureX.build/Release/VentureX.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp
+c0000000052FA858C0000000000000123
+t1392149900
+s291
+
+N/Volumes/Universe/Research/Machine Learning/pp/VentureX/VentureX/main.cpp
+c0000000052FA83E80000000000000064
+t1392149480
+s100
+
+CBuild AST from /Volumes/Universe/Research/Machine\ Learning/pp/VentureX/Parser.cpp
+r0
+
+CBuild AST from /Volumes/Universe/Research/Machine\ Learning/pp/VentureX/VentureX/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesfd16f11fbdaab841^8f1bf61fbdaab841^---0#1#1#--18"Check dependencies36"3DD5DDB9-0735-4EA6-BDB7-BA4F4365A2F8-
+
+CCompileC Build/Intermediates/VentureX.build/Release/VentureX.build/Objects-normal/x86_64/Parser.o /Volumes/Universe/Research/Machine\ Learning/pp/VentureX/Parser.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s413842719.962136
+e413842721.292537
+r0
+xCompileC
+xBuild/Intermediates/VentureX.build/Release/VentureX.build/Objects-normal/x86_64/Parser.o
+x/Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp
+d/Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.h
+d/opt/local/include/boost/algorithm/string.hpp
+d/opt/local/include/boost/algorithm/string/std_containers_traits.hpp
+d/opt/local/include/boost/config.hpp
+d/opt/local/include/boost/config/user.hpp
+d/opt/local/include/boost/config/select_compiler_config.hpp
+d/opt/local/include/boost/config/compiler/clang.hpp
+d/opt/local/include/boost/config/select_stdlib_config.hpp
+d/opt/local/include/boost/config/no_tr1/utility.hpp
+d/opt/local/include/boost/config/stdlib/libcpp.hpp
+d/opt/local/include/boost/config/select_platform_config.hpp
+d/opt/local/include/boost/config/platform/macos.hpp
+d/opt/local/include/boost/config/posix_features.hpp
+d/opt/local/include/boost/config/suffix.hpp
+d/opt/local/include/boost/algorithm/string/std/string_traits.hpp
+d/opt/local/include/boost/algorithm/string/yes_no_type.hpp
+d/opt/local/include/boost/algorithm/string/sequence_traits.hpp
+d/opt/local/include/boost/mpl/bool.hpp
+d/opt/local/include/boost/mpl/bool_fwd.hpp
+d/opt/local/include/boost/mpl/aux_/adl_barrier.hpp
+d/opt/local/include/boost/mpl/aux_/config/adl.hpp
+d/opt/local/include/boost/mpl/aux_/config/msvc.hpp
+d/opt/local/include/boost/mpl/aux_/config/intel.hpp
+d/opt/local/include/boost/mpl/aux_/config/gcc.hpp
+d/opt/local/include/boost/mpl/aux_/config/workaround.hpp
+d/opt/local/include/boost/detail/workaround.hpp
+d/opt/local/include/boost/mpl/integral_c_tag.hpp
+d/opt/local/include/boost/mpl/aux_/config/static_constant.hpp
+d/opt/local/include/boost/algorithm/string/std/list_traits.hpp
+d/opt/local/include/boost/algorithm/string/trim.hpp
+d/opt/local/include/boost/algorithm/string/config.hpp
+d/opt/local/include/boost/range/begin.hpp
+d/opt/local/include/boost/range/config.hpp
+d/opt/local/include/boost/range/iterator.hpp
+d/opt/local/include/boost/range/mutable_iterator.hpp
+d/opt/local/include/boost/range/detail/extract_optional_type.hpp
+d/opt/local/include/boost/iterator/iterator_traits.hpp
+d/opt/local/include/boost/detail/iterator.hpp
+d/opt/local/include/boost/range/const_iterator.hpp
+d/opt/local/include/boost/type_traits/remove_const.hpp
+d/opt/local/include/boost/type_traits/is_volatile.hpp
+d/opt/local/include/boost/type_traits/detail/cv_traits_impl.hpp
+d/opt/local/include/boost/type_traits/detail/bool_trait_def.hpp
+d/opt/local/include/boost/type_traits/detail/template_arity_spec.hpp
+d/opt/local/include/boost/mpl/int.hpp
+d/opt/local/include/boost/mpl/int_fwd.hpp
+d/opt/local/include/boost/mpl/aux_/nttp_decl.hpp
+d/opt/local/include/boost/mpl/aux_/config/nttp.hpp
+d/opt/local/include/boost/mpl/aux_/integral_wrapper.hpp
+d/opt/local/include/boost/mpl/aux_/static_cast.hpp
+d/opt/local/include/boost/preprocessor/cat.hpp
+d/opt/local/include/boost/preprocessor/config/config.hpp
+d/opt/local/include/boost/mpl/aux_/template_arity_fwd.hpp
+d/opt/local/include/boost/mpl/aux_/preprocessor/params.hpp
+d/opt/local/include/boost/mpl/aux_/config/preprocessor.hpp
+d/opt/local/include/boost/preprocessor/comma_if.hpp
+d/opt/local/include/boost/preprocessor/punctuation/comma_if.hpp
+d/opt/local/include/boost/preprocessor/control/if.hpp
+d/opt/local/include/boost/preprocessor/control/iif.hpp
+d/opt/local/include/boost/preprocessor/logical/bool.hpp
+d/opt/local/include/boost/preprocessor/facilities/empty.hpp
+d/opt/local/include/boost/preprocessor/punctuation/comma.hpp
+d/opt/local/include/boost/preprocessor/repeat.hpp
+d/opt/local/include/boost/preprocessor/repetition/repeat.hpp
+d/opt/local/include/boost/preprocessor/debug/error.hpp
+d/opt/local/include/boost/preprocessor/detail/auto_rec.hpp
+d/opt/local/include/boost/preprocessor/tuple/eat.hpp
+d/opt/local/include/boost/preprocessor/inc.hpp
+d/opt/local/include/boost/preprocessor/arithmetic/inc.hpp
+d/opt/local/include/boost/mpl/aux_/config/lambda.hpp
+d/opt/local/include/boost/mpl/aux_/config/ttp.hpp
+d/opt/local/include/boost/mpl/aux_/config/ctps.hpp
+d/opt/local/include/boost/mpl/aux_/config/overload_resolution.hpp
+d/opt/local/include/boost/type_traits/integral_constant.hpp
+d/opt/local/include/boost/mpl/integral_c.hpp
+d/opt/local/include/boost/mpl/integral_c_fwd.hpp
+d/opt/local/include/boost/mpl/aux_/lambda_support.hpp
+d/opt/local/include/boost/type_traits/detail/bool_trait_undef.hpp
+d/opt/local/include/boost/type_traits/broken_compiler_spec.hpp
+d/opt/local/include/boost/type_traits/detail/type_trait_def.hpp
+d/opt/local/include/boost/type_traits/detail/type_trait_undef.hpp
+d/opt/local/include/boost/type_traits/is_const.hpp
+d/opt/local/include/boost/type_traits/is_reference.hpp
+d/opt/local/include/boost/type_traits/config.hpp
+d/opt/local/include/boost/type_traits/is_lvalue_reference.hpp
+d/opt/local/include/boost/type_traits/is_rvalue_reference.hpp
+d/opt/local/include/boost/type_traits/ice.hpp
+d/opt/local/include/boost/type_traits/detail/yes_no_type.hpp
+d/opt/local/include/boost/type_traits/detail/ice_or.hpp
+d/opt/local/include/boost/type_traits/detail/ice_and.hpp
+d/opt/local/include/boost/type_traits/detail/ice_not.hpp
+d/opt/local/include/boost/type_traits/detail/ice_eq.hpp
+d/opt/local/include/boost/mpl/eval_if.hpp
+d/opt/local/include/boost/mpl/if.hpp
+d/opt/local/include/boost/mpl/aux_/value_wknd.hpp
+d/opt/local/include/boost/mpl/aux_/config/integral.hpp
+d/opt/local/include/boost/mpl/aux_/config/eti.hpp
+d/opt/local/include/boost/mpl/aux_/na_spec.hpp
+d/opt/local/include/boost/mpl/lambda_fwd.hpp
+d/opt/local/include/boost/mpl/void_fwd.hpp
+d/opt/local/include/boost/mpl/aux_/na.hpp
+d/opt/local/include/boost/mpl/aux_/na_fwd.hpp
+d/opt/local/include/boost/mpl/aux_/lambda_arity_param.hpp
+d/opt/local/include/boost/mpl/aux_/arity.hpp
+d/opt/local/include/boost/mpl/aux_/config/dtp.hpp
+d/opt/local/include/boost/mpl/aux_/preprocessor/enum.hpp
+d/opt/local/include/boost/mpl/aux_/preprocessor/def_params_tail.hpp
+d/opt/local/include/boost/mpl/limits/arity.hpp
+d/opt/local/include/boost/preprocessor/logical/and.hpp
+d/opt/local/include/boost/preprocessor/logical/bitand.hpp
+d/opt/local/include/boost/preprocessor/identity.hpp
+d/opt/local/include/boost/preprocessor/facilities/identity.hpp
+d/opt/local/include/boost/preprocessor/empty.hpp
+d/opt/local/include/boost/preprocessor/arithmetic/add.hpp
+d/opt/local/include/boost/preprocessor/arithmetic/dec.hpp
+d/opt/local/include/boost/preprocessor/control/while.hpp
+d/opt/local/include/boost/preprocessor/list/fold_left.hpp
+d/opt/local/include/boost/preprocessor/list/detail/fold_left.hpp
+d/opt/local/include/boost/preprocessor/control/expr_iif.hpp
+d/opt/local/include/boost/preprocessor/list/adt.hpp
+d/opt/local/include/boost/preprocessor/detail/is_binary.hpp
+d/opt/local/include/boost/preprocessor/detail/check.hpp
+d/opt/local/include/boost/preprocessor/logical/compl.hpp
+d/opt/local/include/boost/preprocessor/list/fold_right.hpp
+d/opt/local/include/boost/preprocessor/list/detail/fold_right.hpp
+d/opt/local/include/boost/preprocessor/list/reverse.hpp
+d/opt/local/include/boost/preprocessor/control/detail/while.hpp
+d/opt/local/include/boost/preprocessor/tuple/elem.hpp
+d/opt/local/include/boost/preprocessor/facilities/overload.hpp
+d/opt/local/include/boost/preprocessor/variadic/size.hpp
+d/opt/local/include/boost/preprocessor/tuple/rem.hpp
+d/opt/local/include/boost/preprocessor/variadic/elem.hpp
+d/opt/local/include/boost/preprocessor/arithmetic/sub.hpp
+d/opt/local/include/boost/range/end.hpp
+d/opt/local/include/boost/range/detail/implementation_help.hpp
+d/opt/local/include/boost/range/detail/common.hpp
+d/opt/local/include/boost/range/detail/sfinae.hpp
+d/opt/local/include/boost/type_traits/is_array.hpp
+d/opt/local/include/boost/type_traits/is_void.hpp
+d/opt/local/include/boost/type_traits/is_same.hpp
+d/opt/local/include/boost/range/as_literal.hpp
+d/opt/local/include/boost/range/iterator_range.hpp
+d/opt/local/include/boost/range/iterator_range_core.hpp
+d/opt/local/include/boost/assert.hpp
+d/opt/local/include/boost/current_function.hpp
+d/opt/local/include/boost/iterator/iterator_facade.hpp
+d/opt/local/include/boost/iterator.hpp
+d/opt/local/include/boost/iterator/interoperable.hpp
+d/opt/local/include/boost/mpl/or.hpp
+d/opt/local/include/boost/mpl/aux_/config/use_preprocessed.hpp
+d/opt/local/include/boost/mpl/aux_/nested_type_wknd.hpp
+d/opt/local/include/boost/mpl/aux_/include_preprocessed.hpp
+d/opt/local/include/boost/mpl/aux_/config/compiler.hpp
+d/opt/local/include/boost/preprocessor/stringize.hpp
+d/opt/local/include/boost/mpl/aux_/preprocessed/gcc/or.hpp
+d/opt/local/include/boost/type_traits/is_convertible.hpp
+d/opt/local/include/boost/type_traits/intrinsics.hpp
+d/opt/local/include/boost/type_traits/is_abstract.hpp
+d/opt/local/include/boost/iterator/detail/config_def.hpp
+d/opt/local/include/boost/iterator/detail/config_undef.hpp
+d/opt/local/include/boost/iterator/detail/facade_iterator_category.hpp
+d/opt/local/include/boost/iterator/iterator_categories.hpp
+d/opt/local/include/boost/mpl/identity.hpp
+d/opt/local/include/boost/mpl/placeholders.hpp
+d/opt/local/include/boost/mpl/arg.hpp
+d/opt/local/include/boost/mpl/arg_fwd.hpp
+d/opt/local/include/boost/mpl/aux_/na_assert.hpp
+d/opt/local/include/boost/mpl/assert.hpp
+d/opt/local/include/boost/mpl/not.hpp
+d/opt/local/include/boost/mpl/aux_/yes_no.hpp
+d/opt/local/include/boost/mpl/aux_/config/arrays.hpp
+d/opt/local/include/boost/mpl/aux_/config/pp_counter.hpp
+d/opt/local/include/boost/mpl/aux_/arity_spec.hpp
+d/opt/local/include/boost/mpl/aux_/arg_typedef.hpp
+d/opt/local/include/boost/mpl/aux_/preprocessed/gcc/arg.hpp
+d/opt/local/include/boost/mpl/aux_/preprocessed/gcc/placeholders.hpp
+d/opt/local/include/boost/static_assert.hpp
+d/opt/local/include/boost/mpl/and.hpp
+d/opt/local/include/boost/mpl/aux_/preprocessed/gcc/and.hpp
+d/opt/local/include/boost/detail/indirect_traits.hpp
+d/opt/local/include/boost/type_traits/is_function.hpp
+d/opt/local/include/boost/type_traits/detail/false_result.hpp
+d/opt/local/include/boost/type_traits/detail/is_function_ptr_helper.hpp
+d/opt/local/include/boost/type_traits/is_pointer.hpp
+d/opt/local/include/boost/type_traits/is_member_pointer.hpp
+d/opt/local/include/boost/type_traits/is_member_function_pointer.hpp
+d/opt/local/include/boost/type_traits/detail/is_mem_fun_pointer_impl.hpp
+d/opt/local/include/boost/type_traits/remove_cv.hpp
+d/opt/local/include/boost/type_traits/is_class.hpp
+d/opt/local/include/boost/type_traits/remove_reference.hpp
+d/opt/local/include/boost/type_traits/remove_pointer.hpp
+d/opt/local/include/boost/iterator/detail/enable_if.hpp
+d/opt/local/include/boost/utility/addressof.hpp
+d/opt/local/include/boost/type_traits/add_const.hpp
+d/opt/local/include/boost/type_traits/add_pointer.hpp
+d/opt/local/include/boost/type_traits/is_pod.hpp
+d/opt/local/include/boost/type_traits/is_scalar.hpp
+d/opt/local/include/boost/type_traits/is_arithmetic.hpp
+d/opt/local/include/boost/type_traits/is_integral.hpp
+d/opt/local/include/boost/type_traits/is_float.hpp
+d/opt/local/include/boost/type_traits/is_enum.hpp
+d/opt/local/include/boost/mpl/always.hpp
+d/opt/local/include/boost/mpl/apply.hpp
+d/opt/local/include/boost/mpl/apply_fwd.hpp
+d/opt/local/include/boost/mpl/aux_/preprocessed/gcc/apply_fwd.hpp
+d/opt/local/include/boost/mpl/apply_wrap.hpp
+d/opt/local/include/boost/mpl/aux_/has_apply.hpp
+d/opt/local/include/boost/mpl/has_xxx.hpp
+d/opt/local/include/boost/mpl/aux_/type_wrapper.hpp
+d/opt/local/include/boost/mpl/aux_/config/has_xxx.hpp
+d/opt/local/include/boost/mpl/aux_/config/msvc_typename.hpp
+d/opt/local/include/boost/preprocessor/array/elem.hpp
+d/opt/local/include/boost/preprocessor/array/data.hpp
+d/opt/local/include/boost/preprocessor/array/size.hpp
+d/opt/local/include/boost/preprocessor/repetition/enum_params.hpp
+d/opt/local/include/boost/preprocessor/repetition/enum_trailing_params.hpp
+d/opt/local/include/boost/mpl/aux_/config/has_apply.hpp
+d/opt/local/include/boost/mpl/aux_/msvc_never_true.hpp
+d/opt/local/include/boost/mpl/aux_/preprocessed/gcc/apply_wrap.hpp
+d/opt/local/include/boost/mpl/lambda.hpp
+d/opt/local/include/boost/mpl/bind.hpp
+d/opt/local/include/boost/mpl/bind_fwd.hpp
+d/opt/local/include/boost/mpl/aux_/config/bind.hpp
+d/opt/local/include/boost/mpl/aux_/preprocessed/gcc/bind_fwd.hpp
+d/opt/local/include/boost/mpl/next.hpp
+d/opt/local/include/boost/mpl/next_prior.hpp
+d/opt/local/include/boost/mpl/aux_/common_name_wknd.hpp
+d/opt/local/include/boost/mpl/protect.hpp
+d/opt/local/include/boost/mpl/aux_/preprocessed/gcc/bind.hpp
+d/opt/local/include/boost/mpl/aux_/full_lambda.hpp
+d/opt/local/include/boost/mpl/quote.hpp
+d/opt/local/include/boost/mpl/void.hpp
+d/opt/local/include/boost/mpl/aux_/has_type.hpp
+d/opt/local/include/boost/mpl/aux_/config/bcc.hpp
+d/opt/local/include/boost/mpl/aux_/preprocessed/gcc/quote.hpp
+d/opt/local/include/boost/mpl/aux_/template_arity.hpp
+d/opt/local/include/boost/mpl/aux_/preprocessed/gcc/template_arity.hpp
+d/opt/local/include/boost/mpl/aux_/preprocessed/gcc/full_lambda.hpp
+d/opt/local/include/boost/mpl/aux_/preprocessed/gcc/apply.hpp
+d/opt/local/include/boost/range/functions.hpp
+d/opt/local/include/boost/range/size.hpp
+d/opt/local/include/boost/range/size_type.hpp
+d/opt/local/include/boost/range/difference_type.hpp
+d/opt/local/include/boost/utility/enable_if.hpp
+d/opt/local/include/boost/type_traits/make_unsigned.hpp
+d/opt/local/include/boost/type_traits/is_signed.hpp
+d/opt/local/include/boost/type_traits/is_unsigned.hpp
+d/opt/local/include/boost/type_traits/add_volatile.hpp
+d/opt/local/include/boost/range/distance.hpp
+d/opt/local/include/boost/range/empty.hpp
+d/opt/local/include/boost/range/rbegin.hpp
+d/opt/local/include/boost/range/reverse_iterator.hpp
+d/opt/local/include/boost/iterator/reverse_iterator.hpp
+d/opt/local/include/boost/next_prior.hpp
+d/opt/local/include/boost/iterator/iterator_adaptor.hpp
+d/opt/local/include/boost/type_traits/add_reference.hpp
+d/opt/local/include/boost/range/rend.hpp
+d/opt/local/include/boost/range/algorithm/equal.hpp
+d/opt/local/include/boost/range/concepts.hpp
+d/opt/local/include/boost/concept_check.hpp
+d/opt/local/include/boost/concept/assert.hpp
+d/opt/local/include/boost/concept/detail/general.hpp
+d/opt/local/include/boost/concept/detail/backward_compatibility.hpp
+d/opt/local/include/boost/concept/detail/has_constraints.hpp
+d/opt/local/include/boost/type_traits/conversion_traits.hpp
+d/opt/local/include/boost/concept/usage.hpp
+d/opt/local/include/boost/concept/detail/concept_def.hpp
+d/opt/local/include/boost/preprocessor/seq/for_each_i.hpp
+d/opt/local/include/boost/preprocessor/repetition/for.hpp
+d/opt/local/include/boost/preprocessor/repetition/detail/for.hpp
+d/opt/local/include/boost/preprocessor/seq/seq.hpp
+d/opt/local/include/boost/preprocessor/seq/elem.hpp
+d/opt/local/include/boost/preprocessor/seq/size.hpp
+d/opt/local/include/boost/preprocessor/seq/enum.hpp
+d/opt/local/include/boost/concept/detail/concept_undef.hpp
+d/opt/local/include/boost/iterator/iterator_concepts.hpp
+d/opt/local/include/boost/limits.hpp
+d/opt/local/include/boost/range/value_type.hpp
+d/opt/local/include/boost/range/detail/misc_concept.hpp
+d/opt/local/include/boost/range/detail/safe_bool.hpp
+d/opt/local/include/boost/range/iterator_range_io.hpp
+d/opt/local/include/boost/range/detail/str_types.hpp
+d/opt/local/include/boost/algorithm/string/detail/trim.hpp
+d/opt/local/include/boost/algorithm/string/classification.hpp
+d/opt/local/include/boost/algorithm/string/detail/classification.hpp
+d/opt/local/include/boost/algorithm/string/predicate_facade.hpp
+d/opt/local/include/boost/algorithm/string/case_conv.hpp
+d/opt/local/include/boost/iterator/transform_iterator.hpp
+d/opt/local/include/boost/type_traits/function_traits.hpp
+d/opt/local/include/boost/utility/result_of.hpp
+d/opt/local/include/boost/preprocessor/iteration/iterate.hpp
+d/opt/local/include/boost/preprocessor/slot/slot.hpp
+d/opt/local/include/boost/preprocessor/slot/detail/def.hpp
+d/opt/local/include/boost/preprocessor/repetition/enum_binary_params.hpp
+d/opt/local/include/boost/preprocessor/repetition/enum_shifted_params.hpp
+d/opt/local/include/boost/preprocessor/facilities/intercept.hpp
+d/opt/local/include/boost/utility/declval.hpp
+d/opt/local/include/boost/type_traits/add_rvalue_reference.hpp
+d/opt/local/include/boost/preprocessor/iteration/detail/iter/forward1.hpp
+d/opt/local/include/boost/preprocessor/iteration/detail/bounds/lower1.hpp
+d/opt/local/include/boost/preprocessor/slot/detail/shared.hpp
+d/opt/local/include/boost/preprocessor/iteration/detail/bounds/upper1.hpp
+d/opt/local/include/boost/utility/detail/result_of_iterate.hpp
+d/opt/local/include/boost/algorithm/string/detail/case_conv.hpp
+d/opt/local/include/boost/algorithm/string/predicate.hpp
+d/opt/local/include/boost/algorithm/string/compare.hpp
+d/opt/local/include/boost/algorithm/string/find.hpp
+d/opt/local/include/boost/algorithm/string/finder.hpp
+d/opt/local/include/boost/algorithm/string/constants.hpp
+d/opt/local/include/boost/algorithm/string/detail/finder.hpp
+d/opt/local/include/boost/algorithm/string/detail/predicate.hpp
+d/opt/local/include/boost/algorithm/string/split.hpp
+d/opt/local/include/boost/algorithm/string/iter_find.hpp
+d/opt/local/include/boost/algorithm/string/concept.hpp
+d/opt/local/include/boost/algorithm/string/find_iterator.hpp
+d/opt/local/include/boost/algorithm/string/detail/find_iterator.hpp
+d/opt/local/include/boost/function.hpp
+d/opt/local/include/boost/preprocessor/iterate.hpp
+d/opt/local/include/boost/function/detail/prologue.hpp
+d/opt/local/include/boost/config/no_tr1/functional.hpp
+d/opt/local/include/boost/throw_exception.hpp
+d/opt/local/include/boost/function/function_base.hpp
+d/opt/local/include/boost/detail/sp_typeinfo.hpp
+d/opt/local/include/boost/integer.hpp
+d/opt/local/include/boost/integer_fwd.hpp
+d/opt/local/include/boost/cstdint.hpp
+d/opt/local/include/boost/integer_traits.hpp
+d/opt/local/include/boost/type_traits/has_trivial_copy.hpp
+d/opt/local/include/boost/type_traits/has_trivial_destructor.hpp
+d/opt/local/include/boost/type_traits/composite_traits.hpp
+d/opt/local/include/boost/type_traits/is_union.hpp
+d/opt/local/include/boost/ref.hpp
+d/opt/local/include/boost/type_traits/alignment_of.hpp
+d/opt/local/include/boost/type_traits/detail/size_t_trait_def.hpp
+d/opt/local/include/boost/mpl/size_t.hpp
+d/opt/local/include/boost/mpl/size_t_fwd.hpp
+d/opt/local/include/boost/type_traits/detail/size_t_trait_undef.hpp
+d/opt/local/include/boost/function_equal.hpp
+d/opt/local/include/boost/function/function_fwd.hpp
+d/opt/local/include/boost/mem_fn.hpp
+d/opt/local/include/boost/bind/mem_fn.hpp
+d/opt/local/include/boost/get_pointer.hpp
+d/opt/local/include/boost/config/no_tr1/memory.hpp
+d/opt/local/include/boost/bind/mem_fn_template.hpp
+d/opt/local/include/boost/bind/mem_fn_cc.hpp
+d/opt/local/include/boost/preprocessor/enum.hpp
+d/opt/local/include/boost/preprocessor/repetition/enum.hpp
+d/opt/local/include/boost/preprocessor/enum_params.hpp
+d/opt/local/include/boost/function/detail/function_iterate.hpp
+d/opt/local/include/boost/function/detail/maybe_include.hpp
+d/opt/local/include/boost/function/function_template.hpp
+d/opt/local/include/boost/detail/no_exceptions_support.hpp
+d/opt/local/include/boost/algorithm/string/detail/util.hpp
+d/opt/local/include/boost/algorithm/string/join.hpp
+d/opt/local/include/boost/algorithm/string/detail/sequence.hpp
+d/opt/local/include/boost/mpl/logical.hpp
+d/opt/local/include/boost/algorithm/string/replace.hpp
+d/opt/local/include/boost/algorithm/string/find_format.hpp
+d/opt/local/include/boost/algorithm/string/detail/find_format.hpp
+d/opt/local/include/boost/algorithm/string/detail/find_format_store.hpp
+d/opt/local/include/boost/algorithm/string/detail/replace_storage.hpp
+d/opt/local/include/boost/algorithm/string/detail/find_format_all.hpp
+d/opt/local/include/boost/algorithm/string/formatter.hpp
+d/opt/local/include/boost/algorithm/string/detail/formatter.hpp
+d/opt/local/include/boost/algorithm/string/erase.hpp
+oIn file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:2:
+oIn file included from /opt/local/include/boost/algorithm/string.hpp:21:
+oIn file included from /opt/local/include/boost/algorithm/string/predicate.hpp:23:
+oIn file included from /opt/local/include/boost/algorithm/string/find.hpp:22:
+oIn file included from /opt/local/include/boost/algorithm/string/finder.hpp:23:
+o/opt/local/include/boost/algorithm/string/detail/finder.hpp:583:48: error: called object type 'const char *' is not a function or function pointer
+o                            while( It2!=End && m_Pred(*It2) ) ++It2;
+o                                               ^~~~~~
+oIn file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:2:
+oIn file included from /opt/local/include/boost/algorithm/string.hpp:23:
+oIn file included from /opt/local/include/boost/algorithm/string/split.hpp:16:
+oIn file included from /opt/local/include/boost/algorithm/string/iter_find.hpp:26:
+o/opt/local/include/boost/algorithm/string/concept.hpp:43:19: note: in instantiation of function template specialization 'boost::algorithm::detail::token_finderF<const char *>::operator()<std::__1::__wrap_iter<char *> >' requested here
+o                r=(*pF)(i,i);
+o                  ^
+oIn file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:2:
+oIn file included from /opt/local/include/boost/algorithm/string.hpp:19:
+oIn file included from /opt/local/include/boost/algorithm/string/trim.hpp:19:
+oIn file included from /opt/local/include/boost/range/as_literal.hpp:22:
+oIn file included from /opt/local/include/boost/range/iterator_range.hpp:13:
+oIn file included from /opt/local/include/boost/range/iterator_range_core.hpp:29:
+oIn file included from /opt/local/include/boost/range/algorithm/equal.hpp:14:
+oIn file included from /opt/local/include/boost/range/concepts.hpp:19:
+oIn file included from /opt/local/include/boost/concept_check.hpp:20:
+oIn file included from /opt/local/include/boost/concept/assert.hpp:36:
+o/opt/local/include/boost/concept/detail/general.hpp:46:41: note: in instantiation of member function 'boost::algorithm::FinderConcept<boost::algorithm::detail::token_finderF<const char *>, std::__1::__wrap_iter<char *> >::constraints' requested here
+o    static void failed() { ((Model*)0)->constraints(); }
+o                                        ^
+oIn file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:2:
+oIn file included from /opt/local/include/boost/algorithm/string.hpp:23:
+oIn file included from /opt/local/include/boost/algorithm/string/split.hpp:16:
+o/opt/local/include/boost/algorithm/string/iter_find.hpp:148:13: note: in instantiation of member function 'boost::concepts::constraint<boost::algorithm::FinderConcept<boost::algorithm::detail::token_finderF<const char *>, std::__1::__wrap_iter<char *> > >::failed' requested here
+o            BOOST_CONCEPT_ASSERT((
+o            ^
+oIn file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:2:
+oIn file included from /opt/local/include/boost/algorithm/string.hpp:19:
+oIn file included from /opt/local/include/boost/algorithm/string/trim.hpp:19:
+oIn file included from /opt/local/include/boost/range/as_literal.hpp:22:
+oIn file included from /opt/local/include/boost/range/iterator_range.hpp:13:
+oIn file included from /opt/local/include/boost/range/iterator_range_core.hpp:29:
+oIn file included from /opt/local/include/boost/range/algorithm/equal.hpp:14:
+oIn file included from /opt/local/include/boost/range/concepts.hpp:19:
+oIn file included from /opt/local/include/boost/concept_check.hpp:20:
+o/opt/local/include/boost/concept/assert.hpp:44:5: note: expanded from macro 'BOOST_CONCEPT_ASSERT'
+o    BOOST_CONCEPT_ASSERT_FN(void(*)ModelInParens)
+o    ^
+oIn file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:2:
+oIn file included from /opt/local/include/boost/algorithm/string.hpp:19:
+oIn file included from /opt/local/include/boost/algorithm/string/trim.hpp:19:
+oIn file included from /opt/local/include/boost/range/as_literal.hpp:22:
+oIn file included from /opt/local/include/boost/range/iterator_range.hpp:13:
+oIn file included from /opt/local/include/boost/range/iterator_range_core.hpp:29:
+oIn file included from /opt/local/include/boost/range/algorithm/equal.hpp:14:
+oIn file included from /opt/local/include/boost/range/concepts.hpp:19:
+oIn file included from /opt/local/include/boost/concept_check.hpp:20:
+oIn file included from /opt/local/include/boost/concept/assert.hpp:36:
+o/opt/local/include/boost/concept/detail/general.hpp:70:51: note: expanded from macro 'BOOST_CONCEPT_ASSERT_FN'
+o    &::boost::concepts::requirement_<ModelFnPtr>::failed>    \
+o                                                  ^
+oIn file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:2:
+oIn file included from /opt/local/include/boost/algorithm/string.hpp:23:
+o/opt/local/include/boost/algorithm/string/split.hpp:146:20: note: in instantiation of function template specialization 'boost::algorithm::iter_split<std::__1::vector<std::__1::basic_string<char>, std::__1::allocator<std::__1::basic_string<char> > >, std::__1::basic_string<char>, boost::algorithm::detail::token_finderF<const char *> >' requested here
+o            return ::boost::algorithm::iter_split(
+o                   ^
+o/Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:10:2: note: in instantiation of function template specialization 'boost::algorithm::split<std::__1::vector<std::__1::basic_string<char>, std::__1::allocator<std::__1::basic_string<char> > >, std::__1::basic_string<char>, const char *>' requested here
+o        boost::split(strs, exp, " ");
+o        ^
+oIn file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:1:
+oIn file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.h:4:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/iostream:38:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/ios:216:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/__locale:15:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/string:434:
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/algorithm:818:13: error: called object type 'const char *' is not a function or function pointer
+o        if (__pred(*__first))
+o            ^~~~~~
+oIn file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:2:
+oIn file included from /opt/local/include/boost/algorithm/string.hpp:21:
+oIn file included from /opt/local/include/boost/algorithm/string/predicate.hpp:23:
+oIn file included from /opt/local/include/boost/algorithm/string/find.hpp:22:
+oIn file included from /opt/local/include/boost/algorithm/string/finder.hpp:23:
+o/opt/local/include/boost/algorithm/string/detail/finder.hpp:570:41: note: in instantiation of function template specialization 'std::__1::find_if<std::__1::__wrap_iter<char *>, const char *>' requested here
+o                    ForwardIteratorT It=std::find_if( Begin, End, m_Pred );
+o                                        ^
+oIn file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:2:
+oIn file included from /opt/local/include/boost/algorithm/string.hpp:23:
+oIn file included from /opt/local/include/boost/algorithm/string/split.hpp:16:
+oIn file included from /opt/local/include/boost/algorithm/string/iter_find.hpp:26:
+o/opt/local/include/boost/algorithm/string/concept.hpp:43:19: note: in instantiation of function template specialization 'boost::algorithm::detail::token_finderF<const char *>::operator()<std::__1::__wrap_iter<char *> >' requested here
+o                r=(*pF)(i,i);
+o                  ^
+oIn file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:2:
+oIn file included from /opt/local/include/boost/algorithm/string.hpp:19:
+oIn file included from /opt/local/include/boost/algorithm/string/trim.hpp:19:
+oIn file included from /opt/local/include/boost/range/as_literal.hpp:22:
+oIn file included from /opt/local/include/boost/range/iterator_range.hpp:13:
+oIn file included from /opt/local/include/boost/range/iterator_range_core.hpp:29:
+oIn file included from /opt/local/include/boost/range/algorithm/equal.hpp:14:
+oIn file included from /opt/local/include/boost/range/concepts.hpp:19:
+oIn file included from /opt/local/include/boost/concept_check.hpp:20:
+oIn file included from /opt/local/include/boost/concept/assert.hpp:36:
+o/opt/local/include/boost/concept/detail/general.hpp:46:41: note: in instantiation of member function 'boost::algorithm::FinderConcept<boost::algorithm::detail::token_finderF<const char *>, std::__1::__wrap_iter<char *> >::constraints' requested here
+o    static void failed() { ((Model*)0)->constraints(); }
+o                                        ^
+oIn file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:2:
+oIn file included from /opt/local/include/boost/algorithm/string.hpp:23:
+oIn file included from /opt/local/include/boost/algorithm/string/split.hpp:16:
+o/opt/local/include/boost/algorithm/string/iter_find.hpp:148:13: note: in instantiation of member function 'boost::concepts::constraint<boost::algorithm::FinderConcept<boost::algorithm::detail::token_finderF<const char *>, std::__1::__wrap_iter<char *> > >::failed' requested here
+o            BOOST_CONCEPT_ASSERT((
+o            ^
+oIn file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:2:
+oIn file included from /opt/local/include/boost/algorithm/string.hpp:19:
+oIn file included from /opt/local/include/boost/algorithm/string/trim.hpp:19:
+oIn file included from /opt/local/include/boost/range/as_literal.hpp:22:
+oIn file included from /opt/local/include/boost/range/iterator_range.hpp:13:
+oIn file included from /opt/local/include/boost/range/iterator_range_core.hpp:29:
+oIn file included from /opt/local/include/boost/range/algorithm/equal.hpp:14:
+oIn file included from /opt/local/include/boost/range/concepts.hpp:19:
+oIn file included from /opt/local/include/boost/concept_check.hpp:20:
+o/opt/local/include/boost/concept/assert.hpp:44:5: note: expanded from macro 'BOOST_CONCEPT_ASSERT'
+o    BOOST_CONCEPT_ASSERT_FN(void(*)ModelInParens)
+o    ^
+oIn file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:2:
+oIn file included from /opt/local/include/boost/algorithm/string.hpp:19:
+oIn file included from /opt/local/include/boost/algorithm/string/trim.hpp:19:
+oIn file included from /opt/local/include/boost/range/as_literal.hpp:22:
+oIn file included from /opt/local/include/boost/range/iterator_range.hpp:13:
+oIn file included from /opt/local/include/boost/range/iterator_range_core.hpp:29:
+oIn file included from /opt/local/include/boost/range/algorithm/equal.hpp:14:
+oIn file included from /opt/local/include/boost/range/concepts.hpp:19:
+oIn file included from /opt/local/include/boost/concept_check.hpp:20:
+oIn file included from /opt/local/include/boost/concept/assert.hpp:36:
+o/opt/local/include/boost/concept/detail/general.hpp:70:51: note: expanded from macro 'BOOST_CONCEPT_ASSERT_FN'
+o    &::boost::concepts::requirement_<ModelFnPtr>::failed>    \
+o                                                  ^
+oIn file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:2:
+oIn file included from /opt/local/include/boost/algorithm/string.hpp:23:
+o/opt/local/include/boost/algorithm/string/split.hpp:146:20: note: in instantiation of function template specialization 'boost::algorithm::iter_split<std::__1::vector<std::__1::basic_string<char>, std::__1::allocator<std::__1::basic_string<char> > >, std::__1::basic_string<char>, boost::algorithm::detail::token_finderF<const char *> >' requested here
+o            return ::boost::algorithm::iter_split(
+o                   ^
+o/Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:10:2: note: in instantiation of function template specialization 'boost::algorithm::split<std::__1::vector<std::__1::basic_string<char>, std::__1::allocator<std::__1::basic_string<char> > >, std::__1::basic_string<char>, const char *>' requested here
+o        boost::split(strs, exp, " ");
+o        ^
+oIn file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:2:
+oIn file included from /opt/local/include/boost/algorithm/string.hpp:23:
+oIn file included from /opt/local/include/boost/algorithm/string/split.hpp:16:
+oIn file included from /opt/local/include/boost/algorithm/string/iter_find.hpp:27:
+oIn file included from /opt/local/include/boost/algorithm/string/find_iterator.hpp:24:
+oIn file included from /opt/local/include/boost/algorithm/string/detail/find_iterator.hpp:18:
+oIn file included from /opt/local/include/boost/function.hpp:64:
+oIn file included from /opt/local/include/boost/preprocessor/iteration/detail/iter/forward1.hpp:57:
+oIn file included from /opt/local/include/boost/function/detail/function_iterate.hpp:14:
+oIn file included from /opt/local/include/boost/function/detail/maybe_include.hpp:23:
+o/opt/local/include/boost/function/function_template.hpp:132:18: error: no matching function for call to object of type 'boost::algorithm::detail::token_finderF<const char *>'
+o          return (*f)(BOOST_FUNCTION_ARGS);
+o                 ^~~~
+o/opt/local/include/boost/function/function_template.hpp:934:53: note: in instantiation of member function 'boost::detail::function::function_obj_invoker2<boost::algorithm::detail::token_finderF<const char *>, boost::iterator_range<std::__1::__wrap_iter<char *> >, std::__1::__wrap_iter<char *>, std::__1::__wrap_iter<char *> >::invoke' requested here
+o        { { &manager_type::manage }, &invoker_type::invoke };
+o                                                    ^
+o/opt/local/include/boost/function/function_template.hpp:722:13: note: in instantiation of function template specialization 'boost::function2<boost::iterator_range<std::__1::__wrap_iter<char *> >, std::__1::__wrap_iter<char *>, std::__1::__wrap_iter<char *> >::assign_to<boost::algorithm::detail::token_finderF<const char *> >' requested here
+o      this->assign_to(f);
+o            ^
+oIn file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:2:
+oIn file included from /opt/local/include/boost/algorithm/string.hpp:23:
+oIn file included from /opt/local/include/boost/algorithm/string/split.hpp:16:
+oIn file included from /opt/local/include/boost/algorithm/string/iter_find.hpp:27:
+oIn file included from /opt/local/include/boost/algorithm/string/find_iterator.hpp:24:
+o/opt/local/include/boost/algorithm/string/detail/find_iterator.hpp:51:21: note: in instantiation of function template specialization 'boost::function2<boost::iterator_range<std::__1::__wrap_iter<char *> >, std::__1::__wrap_iter<char *>, std::__1::__wrap_iter<char *> >::function2<boost::algorithm::detail::token_finderF<const char *> >' requested here
+o                    m_Finder(Finder) {}
+o                    ^
+oIn file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:2:
+oIn file included from /opt/local/include/boost/algorithm/string.hpp:23:
+oIn file included from /opt/local/include/boost/algorithm/string/split.hpp:16:
+oIn file included from /opt/local/include/boost/algorithm/string/iter_find.hpp:27:
+o/opt/local/include/boost/algorithm/string/find_iterator.hpp:259:17: note: in instantiation of function template specialization 'boost::algorithm::detail::find_iterator_base<std::__1::__wrap_iter<char *> >::find_iterator_base<boost::algorithm::detail::token_finderF<const char *> >' requested here
+o                detail::find_iterator_base<IteratorT>(Finder,0),
+o                ^
+oIn file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:2:
+oIn file included from /opt/local/include/boost/algorithm/string.hpp:23:
+oIn file included from /opt/local/include/boost/algorithm/string/split.hpp:16:
+o/opt/local/include/boost/algorithm/string/iter_find.hpp:170:21: note: in instantiation of function template specialization 'boost::algorithm::split_iterator<std::__1::__wrap_iter<char *> >::split_iterator<boost::algorithm::detail::token_finderF<const char *> >' requested here
+o                    find_iterator_type( ::boost::begin(lit_input), InputEnd, Finder ),
+o                    ^
+oIn file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:2:
+oIn file included from /opt/local/include/boost/algorithm/string.hpp:23:
+o/opt/local/include/boost/algorithm/string/split.hpp:146:20: note: in instantiation of function template specialization 'boost::algorithm::iter_split<std::__1::vector<std::__1::basic_string<char>, std::__1::allocator<std::__1::basic_string<char> > >, std::__1::basic_string<char>, boost::algorithm::detail::token_finderF<const char *> >' requested here
+o            return ::boost::algorithm::iter_split(
+o                   ^
+o/Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:10:2: note: in instantiation of function template specialization 'boost::algorithm::split<std::__1::vector<std::__1::basic_string<char>, std::__1::allocator<std::__1::basic_string<char> > >, std::__1::basic_string<char>, const char *>' requested here
+o        boost::split(strs, exp, " ");
+o        ^
+oIn file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:2:
+oIn file included from /opt/local/include/boost/algorithm/string.hpp:21:
+oIn file included from /opt/local/include/boost/algorithm/string/predicate.hpp:23:
+oIn file included from /opt/local/include/boost/algorithm/string/find.hpp:22:
+oIn file included from /opt/local/include/boost/algorithm/string/finder.hpp:23:
+o/opt/local/include/boost/algorithm/string/detail/finder.hpp:564:17: note: candidate template ignored: substitution failure [with ForwardIteratorT = std::__1::__wrap_iter<char *>]
+o                operator()(
+o                ^
+o3 errors generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp170"CompileC Build/Intermediates/VentureX.build/Release/VentureX.build/Objects-normal/x86_64/Parser.o Parser.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerce6df61fbdaab841^61e34a21bdaab841^-18177"In file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:2:In file included from /opt/local/include/boost/algorithm/string.hpp:21:In file included from /opt/local/include/boost/algorithm/string/predicate.hpp:23:In file included from /opt/local/include/boost/algorithm/string/find.hpp:22:In file included from /opt/local/include/boost/algorithm/string/finder.hpp:23:/opt/local/include/boost/algorithm/string/detail/finder.hpp:583:48: error: called object type 'const char *' is not a function or function pointer                            while( It2!=End && m_Pred(*It2) ) ++It2;                                               ^~~~~~In file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:2:In file included from /opt/local/include/boost/algorithm/string.hpp:23:In file included from /opt/local/include/boost/algorithm/string/split.hpp:16:In file included from /opt/local/include/boost/algorithm/string/iter_find.hpp:26:/opt/local/include/boost/algorithm/string/concept.hpp:43:19: note: in instantiation of function template specialization 'boost::algorithm::detail::token_finderF<const char *>::operator()<std::__1::__wrap_iter<char *> >' requested here                r=(*pF)(i,i);                  ^In file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:2:In file included from /opt/local/include/boost/algorithm/string.hpp:19:In file included from /opt/local/include/boost/algorithm/string/trim.hpp:19:In file included from /opt/local/include/boost/range/as_literal.hpp:22:In file included from /opt/local/include/boost/range/iterator_range.hpp:13:In file included from /opt/local/include/boost/range/iterator_range_core.hpp:29:In file included from /opt/local/include/boost/range/algorithm/equal.hpp:14:In file included from /opt/local/include/boost/range/concepts.hpp:19:In file included from /opt/local/include/boost/concept_check.hpp:20:In file included from /opt/local/include/boost/concept/assert.hpp:36:/opt/local/include/boost/concept/detail/general.hpp:46:41: note: in instantiation of member function 'boost::algorithm::FinderConcept<boost::algorithm::detail::token_finderF<const char *>, std::__1::__wrap_iter<char *> >::constraints' requested here    static void failed() { ((Model*)0)->constraints(); }                                        ^In file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:2:In file included from /opt/local/include/boost/algorithm/string.hpp:23:In file included from /opt/local/include/boost/algorithm/string/split.hpp:16:/opt/local/include/boost/algorithm/string/iter_find.hpp:148:13: note: in instantiation of member function 'boost::concepts::constraint<boost::algorithm::FinderConcept<boost::algorithm::detail::token_finderF<const char *>, std::__1::__wrap_iter<char *> > >::failed' requested here            BOOST_CONCEPT_ASSERT((            ^In file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:2:In file included from /opt/local/include/boost/algorithm/string.hpp:19:In file included from /opt/local/include/boost/algorithm/string/trim.hpp:19:In file included from /opt/local/include/boost/range/as_literal.hpp:22:In file included from /opt/local/include/boost/range/iterator_range.hpp:13:In file included from /opt/local/include/boost/range/iterator_range_core.hpp:29:In file included from /opt/local/include/boost/range/algorithm/equal.hpp:14:In file included from /opt/local/include/boost/range/concepts.hpp:19:In file included from /opt/local/include/boost/concept_check.hpp:20:/opt/local/include/boost/concept/assert.hpp:44:5: note: expanded from macro 'BOOST_CONCEPT_ASSERT'    BOOST_CONCEPT_ASSERT_FN(void(*)ModelInParens)    ^In file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:2:In file included from /opt/local/include/boost/algorithm/string.hpp:19:In file included from /opt/local/include/boost/algorithm/string/trim.hpp:19:In file included from /opt/local/include/boost/range/as_literal.hpp:22:In file included from /opt/local/include/boost/range/iterator_range.hpp:13:In file included from /opt/local/include/boost/range/iterator_range_core.hpp:29:In file included from /opt/local/include/boost/range/algorithm/equal.hpp:14:In file included from /opt/local/include/boost/range/concepts.hpp:19:In file included from /opt/local/include/boost/concept_check.hpp:20:In file included from /opt/local/include/boost/concept/assert.hpp:36:/opt/local/include/boost/concept/detail/general.hpp:70:51: note: expanded from macro 'BOOST_CONCEPT_ASSERT_FN'    &::boost::concepts::requirement_<ModelFnPtr>::failed>    \                                                  ^In file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:2:In file included from /opt/local/include/boost/algorithm/string.hpp:23:/opt/local/include/boost/algorithm/string/split.hpp:146:20: note: in instantiation of function template specialization 'boost::algorithm::iter_split<std::__1::vector<std::__1::basic_string<char>, std::__1::allocator<std::__1::basic_string<char> > >, std::__1::basic_string<char>, boost::algorithm::detail::token_finderF<const char *> >' requested here            return ::boost::algorithm::iter_split(                   ^/Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:10:2: note: in instantiation of function template specialization 'boost::algorithm::split<std::__1::vector<std::__1::basic_string<char>, std::__1::allocator<std::__1::basic_string<char> > >, std::__1::basic_string<char>, const char *>' requested here        boost::split(strs, exp, " ");        ^In file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:1:In file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.h:4:In file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/iostream:38:In file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/ios:216:In file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/__locale:15:In file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/string:434:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/algorithm:818:13: error: called object type 'const char *' is not a function or function pointer        if (__pred(*__first))            ^~~~~~In file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:2:In file included from /opt/local/include/boost/algorithm/string.hpp:21:In file included from /opt/local/include/boost/algorithm/string/predicate.hpp:23:In file included from /opt/local/include/boost/algorithm/string/find.hpp:22:In file included from /opt/local/include/boost/algorithm/string/finder.hpp:23:/opt/local/include/boost/algorithm/string/detail/finder.hpp:570:41: note: in instantiation of function template specialization 'std::__1::find_if<std::__1::__wrap_iter<char *>, const char *>' requested here                    ForwardIteratorT It=std::find_if( Begin, End, m_Pred );                                        ^In file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:2:In file included from /opt/local/include/boost/algorithm/string.hpp:23:In file included from /opt/local/include/boost/algorithm/string/split.hpp:16:In file included from /opt/local/include/boost/algorithm/string/iter_find.hpp:26:/opt/local/include/boost/algorithm/string/concept.hpp:43:19: note: in instantiation of function template specialization 'boost::algorithm::detail::token_finderF<const char *>::operator()<std::__1::__wrap_iter<char *> >' requested here                r=(*pF)(i,i);                  ^In file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:2:In file included from /opt/local/include/boost/algorithm/string.hpp:19:In file included from /opt/local/include/boost/algorithm/string/trim.hpp:19:In file included from /opt/local/include/boost/range/as_literal.hpp:22:In file included from /opt/local/include/boost/range/iterator_range.hpp:13:In file included from /opt/local/include/boost/range/iterator_range_core.hpp:29:In file included from /opt/local/include/boost/range/algorithm/equal.hpp:14:In file included from /opt/local/include/boost/range/concepts.hpp:19:In file included from /opt/local/include/boost/concept_check.hpp:20:In file included from /opt/local/include/boost/concept/assert.hpp:36:/opt/local/include/boost/concept/detail/general.hpp:46:41: note: in instantiation of member function 'boost::algorithm::FinderConcept<boost::algorithm::detail::token_finderF<const char *>, std::__1::__wrap_iter<char *> >::constraints' requested here    static void failed() { ((Model*)0)->constraints(); }                                        ^In file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:2:In file included from /opt/local/include/boost/algorithm/string.hpp:23:In file included from /opt/local/include/boost/algorithm/string/split.hpp:16:/opt/local/include/boost/algorithm/string/iter_find.hpp:148:13: note: in instantiation of member function 'boost::concepts::constraint<boost::algorithm::FinderConcept<boost::algorithm::detail::token_finderF<const char *>, std::__1::__wrap_iter<char *> > >::failed' requested here            BOOST_CONCEPT_ASSERT((            ^In file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:2:In file included from /opt/local/include/boost/algorithm/string.hpp:19:In file included from /opt/local/include/boost/algorithm/string/trim.hpp:19:In file included from /opt/local/include/boost/range/as_literal.hpp:22:In file included from /opt/local/include/boost/range/iterator_range.hpp:13:In file included from /opt/local/include/boost/range/iterator_range_core.hpp:29:In file included from /opt/local/include/boost/range/algorithm/equal.hpp:14:In file included from /opt/local/include/boost/range/concepts.hpp:19:In file included from /opt/local/include/boost/concept_check.hpp:20:/opt/local/include/boost/concept/assert.hpp:44:5: note: expanded from macro 'BOOST_CONCEPT_ASSERT'    BOOST_CONCEPT_ASSERT_FN(void(*)ModelInParens)    ^In file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:2:In file included from /opt/local/include/boost/algorithm/string.hpp:19:In file included from /opt/local/include/boost/algorithm/string/trim.hpp:19:In file included from /opt/local/include/boost/range/as_literal.hpp:22:In file included from /opt/local/include/boost/range/iterator_range.hpp:13:In file included from /opt/local/include/boost/range/iterator_range_core.hpp:29:In file included from /opt/local/include/boost/range/algorithm/equal.hpp:14:In file included from /opt/local/include/boost/range/concepts.hpp:19:In file included from /opt/local/include/boost/concept_check.hpp:20:In file included from /opt/local/include/boost/concept/assert.hpp:36:/opt/local/include/boost/concept/detail/general.hpp:70:51: note: expanded from macro 'BOOST_CONCEPT_ASSERT_FN'    &::boost::concepts::requirement_<ModelFnPtr>::failed>    \                                                  ^In file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:2:In file included from /opt/local/include/boost/algorithm/string.hpp:23:/opt/local/include/boost/algorithm/string/split.hpp:146:20: note: in instantiation of function template specialization 'boost::algorithm::iter_split<std::__1::vector<std::__1::basic_string<char>, std::__1::allocator<std::__1::basic_string<char> > >, std::__1::basic_string<char>, boost::algorithm::detail::token_finderF<const char *> >' requested here            return ::boost::algorithm::iter_split(                   ^/Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:10:2: note: in instantiation of function template specialization 'boost::algorithm::split<std::__1::vector<std::__1::basic_string<char>, std::__1::allocator<std::__1::basic_string<char> > >, std::__1::basic_string<char>, const char *>' requested here        boost::split(strs, exp, " ");        ^In file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:2:In file included from /opt/local/include/boost/algorithm/string.hpp:23:In file included from /opt/local/include/boost/algorithm/string/split.hpp:16:In file included from /opt/local/include/boost/algorithm/string/iter_find.hpp:27:In file included from /opt/local/include/boost/algorithm/string/find_iterator.hpp:24:In file included from /opt/local/include/boost/algorithm/string/detail/find_iterator.hpp:18:In file included from /opt/local/include/boost/function.hpp:64:In file included from /opt/local/include/boost/preprocessor/iteration/detail/iter/forward1.hpp:57:In file included from /opt/local/include/boost/function/detail/function_iterate.hpp:14:In file included from /opt/local/include/boost/function/detail/maybe_include.hpp:23:/opt/local/include/boost/function/function_template.hpp:132:18: error: no matching function for call to object of type 'boost::algorithm::detail::token_finderF<const char *>'          return (*f)(BOOST_FUNCTION_ARGS);                 ^~~~/opt/local/include/boost/function/function_template.hpp:934:53: note: in instantiation of member function 'boost::detail::function::function_obj_invoker2<boost::algorithm::detail::token_finderF<const char *>, boost::iterator_range<std::__1::__wrap_iter<char *> >, std::__1::__wrap_iter<char *>, std::__1::__wrap_iter<char *> >::invoke' requested here        { { &manager_type::manage }, &invoker_type::invoke };                                                    ^/opt/local/include/boost/function/function_template.hpp:722:13: note: in instantiation of function template specialization 'boost::function2<boost::iterator_range<std::__1::__wrap_iter<char *> >, std::__1::__wrap_iter<char *>, std::__1::__wrap_iter<char *> >::assign_to<boost::algorithm::detail::token_finderF<const char *> >' requested here      this->assign_to(f);            ^In file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:2:In file included from /opt/local/include/boost/algorithm/string.hpp:23:In file included from /opt/local/include/boost/algorithm/string/split.hpp:16:In file included from /opt/local/include/boost/algorithm/string/iter_find.hpp:27:In file included from /opt/local/include/boost/algorithm/string/find_iterator.hpp:24:/opt/local/include/boost/algorithm/string/detail/find_iterator.hpp:51:21: note: in instantiation of function template specialization 'boost::function2<boost::iterator_range<std::__1::__wrap_iter<char *> >, std::__1::__wrap_iter<char *>, std::__1::__wrap_iter<char *> >::function2<boost::algorithm::detail::token_finderF<const char *> >' requested here                    m_Finder(Finder) {}                    ^In file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:2:In file included from /opt/local/include/boost/algorithm/string.hpp:23:In file included from /opt/local/include/boost/algorithm/string/split.hpp:16:In file included from /opt/local/include/boost/algorithm/string/iter_find.hpp:27:/opt/local/include/boost/algorithm/string/find_iterator.hpp:259:17: note: in instantiation of function template specialization 'boost::algorithm::detail::find_iterator_base<std::__1::__wrap_iter<char *> >::find_iterator_base<boost::algorithm::detail::token_finderF<const char *> >' requested here                detail::find_iterator_base<IteratorT>(Finder,0),                ^In file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:2:In file included from /opt/local/include/boost/algorithm/string.hpp:23:In file included from /opt/local/include/boost/algorithm/string/split.hpp:16:/opt/local/include/boost/algorithm/string/iter_find.hpp:170:21: note: in instantiation of function template specialization 'boost::algorithm::split_iterator<std::__1::__wrap_iter<char *> >::split_iterator<boost::algorithm::detail::token_finderF<const char *> >' requested here                    find_iterator_type( ::boost::begin(lit_input), InputEnd, Finder ),                    ^In file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:2:In file included from /opt/local/include/boost/algorithm/string.hpp:23:/opt/local/include/boost/algorithm/string/split.hpp:146:20: note: in instantiation of function template specialization 'boost::algorithm::iter_split<std::__1::vector<std::__1::basic_string<char>, std::__1::allocator<std::__1::basic_string<char> > >, std::__1::basic_string<char>, boost::algorithm::detail::token_finderF<const char *> >' requested here            return ::boost::algorithm::iter_split(                   ^/Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:10:2: note: in instantiation of function template specialization 'boost::algorithm::split<std::__1::vector<std::__1::basic_string<char>, std::__1::allocator<std::__1::basic_string<char> > >, std::__1::basic_string<char>, const char *>' requested here        boost::split(strs, exp, " ");        ^In file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:2:In file included from /opt/local/include/boost/algorithm/string.hpp:21:In file included from /opt/local/include/boost/algorithm/string/predicate.hpp:23:In file included from /opt/local/include/boost/algorithm/string/find.hpp:22:In file included from /opt/local/include/boost/algorithm/string/finder.hpp:23:/opt/local/include/boost/algorithm/string/detail/finder.hpp:564:17: note: candidate template ignored: substitution failure [with ForwardIteratorT = std::__1::__wrap_iter<char *>]                operator()(                ^3 errors generated.3(36%IDEClangDiagnosticActivityLogMessage2@71"Called object type 'const char *' is not a function or function pointer-413842721#18446744073709551615#0#10(2@91"In file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:2:-413842721#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@75"file:///Volumes/Universe/Research/Machine%20Learning/pp/VentureX/Parser.cpp0000000000000000^1#9#1#9#29#0#21"Apple LLVM 5.0 Notice--2@71"In file included from /opt/local/include/boost/algorithm/string.hpp:21:-413842721#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@52"file:///opt/local/include/boost/algorithm/string.hpp0000000000000000^20#9#20#9#662#0#21"Apple LLVM 5.0 Notice--2@81"In file included from /opt/local/include/boost/algorithm/string/predicate.hpp:23:-413842721#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@62"file:///opt/local/include/boost/algorithm/string/predicate.hpp0000000000000000^22#9#22#9#772#0#21"Apple LLVM 5.0 Notice--2@76"In file included from /opt/local/include/boost/algorithm/string/find.hpp:22:-413842721#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@57"file:///opt/local/include/boost/algorithm/string/find.hpp0000000000000000^21#9#21#9#670#0#21"Apple LLVM 5.0 Notice--2@78"In file included from /opt/local/include/boost/algorithm/string/finder.hpp:23:-413842721#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@59"file:///opt/local/include/boost/algorithm/string/finder.hpp0000000000000000^22#9#22#9#728#0#21"Apple LLVM 5.0 Notice--2@167"In instantiation of function template specialization 'boost::algorithm::detail::token_finderF<const char *>::operator()<std::__1::__wrap_iter<char *> >' requested here-413842721#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@60"file:///opt/local/include/boost/algorithm/string/concept.hpp0000000000000000^42#18#42#18#1303#0#14"Semantic Issue--2@184"In instantiation of member function 'boost::algorithm::FinderConcept<boost::algorithm::detail::token_finderF<const char *>, std::__1::__wrap_iter<char *> >::constraints' requested here-413842721#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@58"file:///opt/local/include/boost/concept/detail/general.hpp0000000000000000^45#40#45#40#1129#0#14"Semantic Issue--2@209"In instantiation of member function 'boost::concepts::constraint<boost::algorithm::FinderConcept<boost::algorithm::detail::token_finderF<const char *>, std::__1::__wrap_iter<char *> > >::failed' requested here-413842721#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@62"file:///opt/local/include/boost/algorithm/string/iter_find.hpp0000000000000000^147#12#147#12#5753#0#14"Semantic Issue--2@285"In instantiation of function template specialization 'boost::algorithm::iter_split<std::__1::vector<std::__1::basic_string<char>, std::__1::allocator<std::__1::basic_string<char> > >, std::__1::basic_string<char>, boost::algorithm::detail::token_finderF<const char *> >' requested here-413842721#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@58"file:///opt/local/include/boost/algorithm/string/split.hpp0000000000000000^145#19#145#19#6177#0#14"Semantic Issue--2@238"In instantiation of function template specialization 'boost::algorithm::split<std::__1::vector<std::__1::basic_string<char>, std::__1::allocator<std::__1::basic_string<char> > >, std::__1::basic_string<char>, const char *>' requested here-413842721#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@75"file:///Volumes/Universe/Research/Machine%20Learning/pp/VentureX/Parser.cpp0000000000000000^9#1#9#1#260#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@66"file:///opt/local/include/boost/algorithm/string/detail/finder.hpp0000000000000000^582#47#582#47#21329#0#14"Semantic Issue1(3@66"file:///opt/local/include/boost/algorithm/string/detail/finder.hpp0000000000000000^582#47#582#53#21329#0#-2@71"Called object type 'const char *' is not a function or function pointer-413842721#18446744073709551615#0#12(2@91"In file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:1:-413842721#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@75"file:///Volumes/Universe/Research/Machine%20Learning/pp/VentureX/Parser.cpp0000000000000000^0#9#0#9#9#0#21"Apple LLVM 5.0 Notice--2@89"In file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.h:4:-413842721#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@73"file:///Volumes/Universe/Research/Machine%20Learning/pp/VentureX/Parser.h0000000000000000^3#9#3#9#68#0#21"Apple LLVM 5.0 Notice--2@135"In file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/iostream:38:-413842721#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@109"file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/c++/v1/iostream0000000000000000^37#9#37#9#760#0#21"Apple LLVM 5.0 Notice--2@131"In file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/ios:216:-413842721#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@104"file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/c++/v1/ios0000000000000000^215#9#215#9#5761#0#21"Apple LLVM 5.0 Notice--2@135"In file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/__locale:15:-413842721#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@109"file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/c++/v1/__locale0000000000000000^14#9#14#9#452#0#21"Apple LLVM 5.0 Notice--2@134"In file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/string:434:-413842721#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@107"file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/c++/v1/string0000000000000000^433#9#433#9#18979#0#21"Apple LLVM 5.0 Notice--2@132"In instantiation of function template specialization 'std::__1::find_if<std::__1::__wrap_iter<char *>, const char *>' requested here-413842721#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@66"file:///opt/local/include/boost/algorithm/string/detail/finder.hpp0000000000000000^569#40#569#40#20862#0#14"Semantic Issue--2@167"In instantiation of function template specialization 'boost::algorithm::detail::token_finderF<const char *>::operator()<std::__1::__wrap_iter<char *> >' requested here-413842721#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@60"file:///opt/local/include/boost/algorithm/string/concept.hpp0000000000000000^42#18#42#18#1303#0#14"Semantic Issue--2@184"In instantiation of member function 'boost::algorithm::FinderConcept<boost::algorithm::detail::token_finderF<const char *>, std::__1::__wrap_iter<char *> >::constraints' requested here-413842721#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@58"file:///opt/local/include/boost/concept/detail/general.hpp0000000000000000^45#40#45#40#1129#0#14"Semantic Issue--2@209"In instantiation of member function 'boost::concepts::constraint<boost::algorithm::FinderConcept<boost::algorithm::detail::token_finderF<const char *>, std::__1::__wrap_iter<char *> > >::failed' requested here-413842721#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@62"file:///opt/local/include/boost/algorithm/string/iter_find.hpp0000000000000000^147#12#147#12#5753#0#14"Semantic Issue--2@285"In instantiation of function template specialization 'boost::algorithm::iter_split<std::__1::vector<std::__1::basic_string<char>, std::__1::allocator<std::__1::basic_string<char> > >, std::__1::basic_string<char>, boost::algorithm::detail::token_finderF<const char *> >' requested here-413842721#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@58"file:///opt/local/include/boost/algorithm/string/split.hpp0000000000000000^145#19#145#19#6177#0#14"Semantic Issue--2@238"In instantiation of function template specialization 'boost::algorithm::split<std::__1::vector<std::__1::basic_string<char>, std::__1::allocator<std::__1::basic_string<char> > >, std::__1::basic_string<char>, const char *>' requested here-413842721#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@75"file:///Volumes/Universe/Research/Machine%20Learning/pp/VentureX/Parser.cpp0000000000000000^9#1#9#1#260#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@110"file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/c++/v1/algorithm0000000000000000^817#12#817#12#28269#0#14"Semantic Issue1(3@110"file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/c++/v1/algorithm0000000000000000^817#12#817#18#28269#0#-2@103"No matching function for call to object of type 'boost::algorithm::detail::token_finderF<const char *>'-413842721#18446744073709551615#0#18(2@91"In file included from /Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.cpp:2:-413842721#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@75"file:///Volumes/Universe/Research/Machine%20Learning/pp/VentureX/Parser.cpp0000000000000000^1#9#1#9#29#0#21"Apple LLVM 5.0 Notice--2@71"In file included from /opt/local/include/boost/algorithm/string.hpp:23:-413842721#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@52"file:///opt/local/include/boost/algorithm/string.hpp0000000000000000^22#9#22#9#753#0#21"Apple LLVM 5.0 Notice--2@77"In file included from /opt/local/include/boost/algorithm/string/split.hpp:16:-413842721#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@58"file:///opt/local/include/boost/algorithm/string/split.hpp0000000000000000^15#9#15#9#492#0#21"Apple LLVM 5.0 Notice--2@81"In file included from /opt/local/include/boost/algorithm/string/iter_find.hpp:27:-413842721#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@62"file:///opt/local/include/boost/algorithm/string/iter_find.hpp0000000000000000^26#9#26#9#859#0#21"Apple LLVM 5.0 Notice--2@85"In file included from /opt/local/include/boost/algorithm/string/find_iterator.hpp:24:-413842721#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@66"file:///opt/local/include/boost/algorithm/string/find_iterator.hpp0000000000000000^23#9#23#9#793#0#21"Apple LLVM 5.0 Notice--2@92"In file included from /opt/local/include/boost/algorithm/string/detail/find_iterator.hpp:18:-413842721#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@73"file:///opt/local/include/boost/algorithm/string/detail/find_iterator.hpp0000000000000000^17#9#17#9#667#0#21"Apple LLVM 5.0 Notice--2@63"In file included from /opt/local/include/boost/function.hpp:64:-413842721#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@44"file:///opt/local/include/boost/function.hpp0000000000000000^63#28#63#28#2154#0#21"Apple LLVM 5.0 Notice--2@98"In file included from /opt/local/include/boost/preprocessor/iteration/detail/iter/forward1.hpp:57:-413842721#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@79"file:///opt/local/include/boost/preprocessor/iteration/detail/iter/forward1.hpp0000000000000000^56#17#56#17#2664#0#21"Apple LLVM 5.0 Notice--2@87"In file included from /opt/local/include/boost/function/detail/function_iterate.hpp:14:-413842721#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@68"file:///opt/local/include/boost/function/detail/function_iterate.hpp0000000000000000^13#9#13#9#460#0#21"Apple LLVM 5.0 Notice--2@84"In file included from /opt/local/include/boost/function/detail/maybe_include.hpp:23:-413842721#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@65"file:///opt/local/include/boost/function/detail/maybe_include.hpp0000000000000000^22#13#22#13#710#0#21"Apple LLVM 5.0 Notice--2@280"In instantiation of member function 'boost::detail::function::function_obj_invoker2<boost::algorithm::detail::token_finderF<const char *>, boost::iterator_range<std::__1::__wrap_iter<char *> >, std::__1::__wrap_iter<char *>, std::__1::__wrap_iter<char *> >::invoke' requested here-413842721#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@62"file:///opt/local/include/boost/function/function_template.hpp0000000000000000^933#52#933#52#31289#0#14"Semantic Issue--2@271"In instantiation of function template specialization 'boost::function2<boost::iterator_range<std::__1::__wrap_iter<char *> >, std::__1::__wrap_iter<char *>, std::__1::__wrap_iter<char *> >::assign_to<boost::algorithm::detail::token_finderF<const char *> >' requested here-413842721#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@62"file:///opt/local/include/boost/function/function_template.hpp0000000000000000^721#12#721#12#25448#0#14"Semantic Issue--2@271"In instantiation of function template specialization 'boost::function2<boost::iterator_range<std::__1::__wrap_iter<char *> >, std::__1::__wrap_iter<char *>, std::__1::__wrap_iter<char *> >::function2<boost::algorithm::detail::token_finderF<const char *> >' requested here-413842721#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@73"file:///opt/local/include/boost/algorithm/string/detail/find_iterator.hpp0000000000000000^50#20#50#20#1793#0#14"Semantic Issue--2@222"In instantiation of function template specialization 'boost::algorithm::detail::find_iterator_base<std::__1::__wrap_iter<char *> >::find_iterator_base<boost::algorithm::detail::token_finderF<const char *> >' requested here-413842721#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@66"file:///opt/local/include/boost/algorithm/string/find_iterator.hpp0000000000000000^258#16#258#16#8344#0#14"Semantic Issue--2@206"In instantiation of function template specialization 'boost::algorithm::split_iterator<std::__1::__wrap_iter<char *> >::split_iterator<boost::algorithm::detail::token_finderF<const char *> >' requested here-413842721#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@62"file:///opt/local/include/boost/algorithm/string/iter_find.hpp0000000000000000^169#20#169#20#6719#0#14"Semantic Issue--2@285"In instantiation of function template specialization 'boost::algorithm::iter_split<std::__1::vector<std::__1::basic_string<char>, std::__1::allocator<std::__1::basic_string<char> > >, std::__1::basic_string<char>, boost::algorithm::detail::token_finderF<const char *> >' requested here-413842721#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@58"file:///opt/local/include/boost/algorithm/string/split.hpp0000000000000000^145#19#145#19#6177#0#14"Semantic Issue--2@238"In instantiation of function template specialization 'boost::algorithm::split<std::__1::vector<std::__1::basic_string<char>, std::__1::allocator<std::__1::basic_string<char> > >, std::__1::basic_string<char>, const char *>' requested here-413842721#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@75"file:///Volumes/Universe/Research/Machine%20Learning/pp/VentureX/Parser.cpp0000000000000000^9#1#9#1#260#0#14"Semantic Issue--2@104"Candidate template ignored: substitution failure [with ForwardIteratorT = std::__1::__wrap_iter<char *>]-413842721#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@66"file:///opt/local/include/boost/algorithm/string/detail/finder.hpp0000000000000000^563#16#563#16#20624#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@62"file:///opt/local/include/boost/function/function_template.hpp0000000000000000^131#17#131#17#5036#0#14"Semantic Issue1(3@62"file:///opt/local/include/boost/function/function_template.hpp0000000000000000^131#17#131#21#5036#3#-0#0#1#-19%DVTDocumentLocation4@75"file:///Volumes/Universe/Research/Machine%20Learning/pp/VentureX/Parser.cpp0000000000000000^3189"CompileC Build/Intermediates/VentureX.build/Release/VentureX.build/Objects-normal/x86_64/Parser.o Parser.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/Universe/Research/Machine Learning/pp/VentureX"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Volumes/Universe/Research/Machine\ Learning/pp/VentureX/Build/Intermediates/VentureX.build/Release/VentureX.build/VentureX-generated-files.hmap -I/Volumes/Universe/Research/Machine\ Learning/pp/VentureX/Build/Intermediates/VentureX.build/Release/VentureX.build/VentureX-own-target-headers.hmap -I/Volumes/Universe/Research/Machine\ Learning/pp/VentureX/Build/Intermediates/VentureX.build/Release/VentureX.build/VentureX-all-target-headers.hmap -iquote /Volumes/Universe/Research/Machine\ Learning/pp/VentureX/Build/Intermediates/VentureX.build/Release/VentureX.build/VentureX-project-headers.hmap -I/Volumes/Universe/Research/Machine\ Learning/pp/VentureX/Bin/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/opt/local/include -I/Volumes/Universe/Research/Machine\ Learning/pp/VentureX/Build/Intermediates/VentureX.build/Release/VentureX.build/DerivedSources/x86_64 -I/Volumes/Universe/Research/Machine\ Learning/pp/VentureX/Build/Intermediates/VentureX.build/Release/VentureX.build/DerivedSources -F/Volumes/Universe/Research/Machine\ Learning/pp/VentureX/Bin/Release -MMD -MT dependencies -MF /Volumes/Universe/Research/Machine\ Learning/pp/VentureX/Build/Intermediates/VentureX.build/Release/VentureX.build/Objects-normal/x86_64/Parser.d --serialize-diagnostics /Volumes/Universe/Research/Machine\ Learning/pp/VentureX/Build/Intermediates/VentureX.build/Release/VentureX.build/Objects-normal/x86_64/Parser.dia -c /Volumes/Universe/Research/Machine\ Learning/pp/VentureX/Parser.cpp -o /Volumes/Universe/Research/Machine\ Learning/pp/VentureX/Build/Intermediates/VentureX.build/Release/VentureX.build/Objects-normal/x86_64/Parser.o36"88A9F977-5455-43B0-BED1-03A358EEA9E7-
+b5CD41B1E-EAD5-4612-9A14-89DE55930075
+
+CCompileC Build/Intermediates/VentureX.build/Release/VentureX.build/Objects-normal/x86_64/main.o /Volumes/Universe/Research/Machine\ Learning/pp/VentureX/VentureX/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s413842719.962304
+e413842720.504461
+r1
+xCompileC
+xBuild/Intermediates/VentureX.build/Release/VentureX.build/Objects-normal/x86_64/main.o
+x/Volumes/Universe/Research/Machine Learning/pp/VentureX/VentureX/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/Universe/Research/Machine Learning/pp/VentureX/VentureX/main.cpp
+d/Volumes/Universe/Research/Machine Learning/pp/VentureX/Parser.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Volumes/Universe/Research/Machine Learning/pp/VentureX/VentureX/main.cpp175"CompileC Build/Intermediates/VentureX.build/Release/VentureX.build/Objects-normal/x86_64/main.o VentureX/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilera56bf61fbdaab841^ee258120bdaab841^---0#0#1#-19%DVTDocumentLocation2@82"file:///Volumes/Universe/Research/Machine%20Learning/pp/VentureX/VentureX/main.cpp0000000000000000^3195"CompileC Build/Intermediates/VentureX.build/Release/VentureX.build/Objects-normal/x86_64/main.o VentureX/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/Universe/Research/Machine Learning/pp/VentureX"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Volumes/Universe/Research/Machine\ Learning/pp/VentureX/Build/Intermediates/VentureX.build/Release/VentureX.build/VentureX-generated-files.hmap -I/Volumes/Universe/Research/Machine\ Learning/pp/VentureX/Build/Intermediates/VentureX.build/Release/VentureX.build/VentureX-own-target-headers.hmap -I/Volumes/Universe/Research/Machine\ Learning/pp/VentureX/Build/Intermediates/VentureX.build/Release/VentureX.build/VentureX-all-target-headers.hmap -iquote /Volumes/Universe/Research/Machine\ Learning/pp/VentureX/Build/Intermediates/VentureX.build/Release/VentureX.build/VentureX-project-headers.hmap -I/Volumes/Universe/Research/Machine\ Learning/pp/VentureX/Bin/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/opt/local/include -I/Volumes/Universe/Research/Machine\ Learning/pp/VentureX/Build/Intermediates/VentureX.build/Release/VentureX.build/DerivedSources/x86_64 -I/Volumes/Universe/Research/Machine\ Learning/pp/VentureX/Build/Intermediates/VentureX.build/Release/VentureX.build/DerivedSources -F/Volumes/Universe/Research/Machine\ Learning/pp/VentureX/Bin/Release -MMD -MT dependencies -MF /Volumes/Universe/Research/Machine\ Learning/pp/VentureX/Build/Intermediates/VentureX.build/Release/VentureX.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Volumes/Universe/Research/Machine\ Learning/pp/VentureX/Build/Intermediates/VentureX.build/Release/VentureX.build/Objects-normal/x86_64/main.dia -c /Volumes/Universe/Research/Machine\ Learning/pp/VentureX/VentureX/main.cpp -o /Volumes/Universe/Research/Machine\ Learning/pp/VentureX/Build/Intermediates/VentureX.build/Release/VentureX.build/Objects-normal/x86_64/main.o36"6158716B-43CC-4E84-9FC9-1E2A0470E8BD-
+b5CD41B1E-EAD5-4612-9A14-89DE55930075
+
+CGenerateDSYMFile /Volumes/Universe/Research/Machine\ Learning/pp/VentureX/Bin/Release/VentureX.dSYM /Volumes/Universe/Research/Machine\ Learning/pp/VentureX/Bin/Release/VentureX
+r0
+
+CLd /Volumes/Universe/Research/Machine\ Learning/pp/VentureX/Bin/Release/VentureX normal x86_64
+r0
+
